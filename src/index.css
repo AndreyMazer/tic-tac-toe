@@ -1,0 +1,38 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: center;
+  font-family: 'inter';
+  color: #86879d;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  box-sizing: border-box;
+  background: black;
+}
+
+#root {
+  width: 1500px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+@media (max-width: 1230px) {
+  #root {
+    width: 1230px;
+  }
+}
