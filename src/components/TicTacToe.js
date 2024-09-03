@@ -43,6 +43,7 @@ const TicTacToe = () => {
 
     return (
         <div className='tictactoe'>
+            <h1 className='tictac__title'>Игра Крестики-Нолики</h1>
             <div className="status">{status}</div>
             <div className="board">
                 <div className="board-row">
