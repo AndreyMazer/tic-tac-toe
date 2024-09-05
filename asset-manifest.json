@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kanbanboard/static/css/main.819b50f4.css",
-    "main.js": "/kanbanboard/static/js/main.76276841.js",
-    "static/js/453.e036e8b5.chunk.js": "/kanbanboard/static/js/453.e036e8b5.chunk.js",
-    "static/media/Inter-Bold.woff": "/kanbanboard/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
-    "static/media/Inter-Black.woff": "/kanbanboard/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/kanbanboard/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Bold.woff2": "/kanbanboard/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
-    "static/media/Inter-Black.woff2": "/kanbanboard/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/kanbanboard/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "index.html": "/kanbanboard/index.html",
-    "main.819b50f4.css.map": "/kanbanboard/static/css/main.819b50f4.css.map",
-    "main.76276841.js.map": "/kanbanboard/static/js/main.76276841.js.map",
-    "453.e036e8b5.chunk.js.map": "/kanbanboard/static/js/453.e036e8b5.chunk.js.map"
+    "main.css": "/tic-tac-toe/static/css/main.0ff191ad.css",
+    "main.js": "/tic-tac-toe/static/js/main.677530fe.js",
+    "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js",
+    "static/media/Inter-Bold.woff": "/tic-tac-toe/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Black.woff": "/tic-tac-toe/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/tic-tac-toe/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2": "/tic-tac-toe/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Black.woff2": "/tic-tac-toe/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/tic-tac-toe/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.0ff191ad.css.map": "/tic-tac-toe/static/css/main.0ff191ad.css.map",
+    "main.677530fe.js.map": "/tic-tac-toe/static/js/main.677530fe.js.map",
+    "453.e036e8b5.chunk.js.map": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.819b50f4.css",
-    "static/js/main.76276841.js"
+    "static/css/main.0ff191ad.css",
+    "static/js/main.677530fe.js"
   ]
 }
